@@ -89,53 +89,53 @@ Cortexone_ai-suit/
 ---
 
 ## ⚙️ Installation & Setup
-
-### 1️⃣ Clone the Repository
 ```bash
+### 1️⃣ Clone the Repository
 git clone https://github.com/shivam05216/Cortexone_ai-suit.git
 cd Cortexone_ai-suit
+```
 2️⃣ Create Virtual Environment
+```bash
 python -m venv venv
 venv\Scripts\activate
+```
 3️⃣ Install Dependencies
+```bash
 pip install -r requirements.txt
+```
 4️⃣ Run the App
+```bash
 streamlit run streamlit_app.py
+```
 🌐 Live Demo
-
 🚀 Coming Soon (Deploying on Streamlit Cloud)
-
-💡 Add your deployed link here after deployment
+---
 
 📊 Real-World Use Cases
-🎓 Personalized course discovery platforms
-🎬 Movie/OTT recommendation systems
-📈 AI-driven user engagement systems
-🤖 Intelligent recommendation engines for startups
-🔮 Future Enhancements
-🤝 Collaborative Filtering Integration
-🌐 REST API for real-time recommendations
-⚛️ React-based frontend UI
-☁️ Full cloud deployment (AWS/GCP)
-🧠 Deep Learning-based recommendation models
-👨‍💻 Author
+-🎓 Personalized course discovery platforms
+-🎬 Movie/OTT recommendation systems
+-📈 AI-driven user engagement systems
+-🤖 Intelligent recommendation engines for startups
+-🔮 Future Enhancements
+-🤝 Collaborative Filtering Integration
+-🌐 REST API for real-time recommendations
+-⚛️ React-based frontend UI
+-☁️ Full cloud deployment (AWS/GCP)
+-🧠 Deep Learning-based recommendation models
 
-Shivam T
+👨‍💻 Author: Shivam 
 🎓 Computer Science Student | AI & ML Enthusiast
 
-💼 Actively seeking AI/ML Internship Opportunities
-🚀 Passionate about building real-world AI systems
-⭐ Support & Contribution
+-💼 Actively seeking AI/ML Internship Opportunities
+-🚀 Passionate about building real-world AI systems
+-⭐ Support & Contribution
 
 If you found this project useful:
+-⭐ Star this repository
+-🍴 Fork and contribute
+-📢 Share with your network
+-📜 License
 
-⭐ Star this repository
-🍴 Fork and contribute
-📢 Share with your network
-📜 License
 
-This project is licensed under the MIT License.
-
-🔥 Final Note
-
+🔥 Final Note:
 Cortex One AI Suite is not just a project — it's a scalable AI product prototype designed for real-world applications.
