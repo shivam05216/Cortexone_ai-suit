@@ -15,7 +15,7 @@
 
 **Cortex One AI Suite** is a high-performance, multi-domain AI platform designed to deliver intelligent recommendations and personalized insights at scale.
 
-It combines **Machine Learning, Natural Language Processing (NLP), and real-time data processing** to build a unified system capable of:
+It integrates **Machine Learning, Natural Language Processing (NLP), and real-time processing** to build a unified system capable of:
 
 - 🎬 Movie Recommendation  
 - 📚 Educational Course Recommendation  
@@ -42,16 +42,12 @@ It combines **Machine Learning, Natural Language Processing (NLP), and real-time
 - Real-time personalized recommendations
 - Optimized for high-speed inference
 
----
-
 ### 📖 Education Recommendation Engine
 - Works on datasets of **100K+ courses**
 - Intelligent course matching based on:
   - User interests  
   - Ratings  
   - Text similarity  
-
----
 
 ### 💬 Sentiment Analysis System
 - Analyzes user feedback and reviews  
@@ -73,7 +69,9 @@ It combines **Machine Learning, Natural Language Processing (NLP), and real-time
 ---
 
 ## 📂 Project Structure
-CortexOne-AI-Suite/
+
+
+Cortexone_ai-suit/
 │
 ├── movie_recommendations/
 ├── education_recommendation/
@@ -93,22 +91,21 @@ CortexOne-AI-Suite/
 ## ⚙️ Installation & Setup
 
 ### 1️⃣ Clone the Repository
-
+```bash
 git clone https://github.com/shivam05216/Cortexone_ai-suit.git
 cd Cortexone_ai-suit
-
 2️⃣ Create Virtual Environment
 python -m venv venv
 venv\Scripts\activate
-
 3️⃣ Install Dependencies
 pip install -r requirements.txt
-
 4️⃣ Run the App
 streamlit run streamlit_app.py
-
 🌐 Live Demo
-🚀 Coming Soon (Deploying on Streamlit Cloud
+
+🚀 Coming Soon (Deploying on Streamlit Cloud)
+
+💡 Add your deployed link here after deployment
 
 📊 Real-World Use Cases
 🎓 Personalized course discovery platforms
@@ -121,8 +118,9 @@ streamlit run streamlit_app.py
 ⚛️ React-based frontend UI
 ☁️ Full cloud deployment (AWS/GCP)
 🧠 Deep Learning-based recommendation models
+👨‍💻 Author
 
-👨‍💻 Author: Shivam
+Shivam T
 🎓 Computer Science Student | AI & ML Enthusiast
 
 💼 Actively seeking AI/ML Internship Opportunities
@@ -130,6 +128,7 @@ streamlit run streamlit_app.py
 ⭐ Support & Contribution
 
 If you found this project useful:
+
 ⭐ Star this repository
 🍴 Fork and contribute
 📢 Share with your network
@@ -137,5 +136,6 @@ If you found this project useful:
 
 This project is licensed under the MIT License.
 
-🔥 Final Note:
+🔥 Final Note
+
 Cortex One AI Suite is not just a project — it's a scalable AI product prototype designed for real-world applications.
